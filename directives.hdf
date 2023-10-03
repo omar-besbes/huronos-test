@@ -1,0 +1,16 @@
+[Global]
+AvailableKeyboardLayouts=us|fr
+DefaultKeyboardLayouts=us
+TimeZone=Africa/Tunis
+ConfigExpirationTime=never
+EventConfig=false
+ContestConfig=false
+
+[Always]
+AllowedWebsites=all
+AllowUsbStorage=true
+AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
+Bookmarks={Contest^https://boca.icpcmexico.org}|{BOCA_User_Manual^https://directives.huronos.org/icpcmx/boca_manual_teams.en.html}|
+Wallpaper=https://directives.huronos.org/icpcmx/gpmx2023_round1_always_mode.png
+WallpaperSha256=824d8560d35ec070589a5b72f2da85aff38203a7f6b1aee8bae7900c608d4369
+
